@@ -1,0 +1,68 @@
+[
+  {
+    "id":1,
+    "newsCategoryId":5,
+    "title":"Праздник 8572faec-a230-4fe2-a4cf-90531bf613b0",
+    "description":"Задорно отметим",
+    "creatorId":2,
+    "createDate":1668925809,
+    "publishDate":1668936600,
+    "publishEnabled":true,
+    "creatorName":"Иванов Данил Данилович"
+  },
+  {
+    "id": 2,
+    "newsCategoryId": 5,
+    "title": "Праздник 8572faec-a230-4fe2-a4cf-90531bf613b1",
+    "description": "Задорно отметим",
+    "creatorId": 2,
+    "createDate": 1668925809,
+    "publishDate": 1668936600,
+    "publishEnabled": true,
+    "creatorName": "Иванов Данил Данилович"
+  },
+  {
+    "id": 3,
+    "newsCategoryId": 5,
+    "title": "Праздник 8572faec-a230-4fe2-a4cf-90531bf613b2",
+    "description": "Задорно отметим",
+    "creatorId": 2,
+    "createDate": 1668925809,
+    "publishDate": 1668936600,
+    "publishEnabled": true,
+    "creatorName": "Иванов Данил Данилович"
+  },
+  {
+    "id": 4,
+    "newsCategoryId": 1,
+    "title": "Объявление 8572faec-a230-4fe2-a4cf-90531bf613b2",
+    "description": "Объявление!",
+    "creatorId": 2,
+    "createDate": 1668925809,
+    "publishDate": 1668936600,
+    "publishEnabled": true,
+    "creatorName": "Иванов Данил Данилович"
+  },
+  {
+    "id": 4,
+    "newsCategoryId": 1,
+    "title": "Объявление 8572faec-a230-4fe2-a4cf-90531bf613b3",
+    "description": "Объявление!",
+    "creatorId": 2,
+    "createDate": 1668925809,
+    "publishDate": 1668936600,
+    "publishEnabled": true,
+    "creatorName": "Иванов Данил Данилович"
+  },
+  {
+    "id": 4,
+    "newsCategoryId": 1,
+    "title": "Объявление 8572faec-a230-4fe2-a4cf-90531bf613b5",
+    "description": "Объявление!",
+    "creatorId": 2,
+    "createDate": 1668925809,
+    "publishDate": 1668936600,
+    "publishEnabled": true,
+    "creatorName": "Иванов Данил Данилович"
+  }
+]
